@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_POO", "Projeto_POO.csproj", "{605149E1-5884-4426-AAFC-BBD477DA1345}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XulambsPizza_Pedido", "XulambsPizza_Pedido.csproj", "{605149E1-5884-4426-AAFC-BBD477DA1345}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
